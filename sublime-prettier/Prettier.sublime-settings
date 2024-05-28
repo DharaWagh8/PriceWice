@@ -1,0 +1,10 @@
+{
+  "extensions": ["js", "jsx"],
+  "autoformat": false,
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useFlowParser": false,
+  "singleQuote": false,
+  "trailingComma": "none",
+  "bracketSpacing": true
+}
